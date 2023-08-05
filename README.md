@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CLOUDISH-LYN
+- 👋 Hi, I’m Lynda, @CLOUDISH-LYN
 - 👀 I’m interested in knowing more about the Cloud
 - 🌱 I’m currently learning AWS Solutions Architechture
 - 💞️ I’m looking to collaborate on all things AWS
